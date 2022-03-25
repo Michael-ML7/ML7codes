@@ -1,3 +1,6 @@
+# Python 0-9 Digit Recognition code
+# Author: 
+
 from msilib.schema import _Validation_records
 from wsgiref import validate
 import cv2 as cv
