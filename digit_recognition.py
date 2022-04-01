@@ -1,5 +1,5 @@
 # Python 0-9 Digit Recognition code
-# Author: 
+# Author: ML7, MPT, LLL
 
 from msilib.schema import _Validation_records
 from wsgiref import validate
